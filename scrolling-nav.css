@@ -11,11 +11,6 @@ section {
   padding: 20px 0;
 }
 
-.container {
-    max-width: 1600px;
-    background-color: red;
-}
-
 /*.fixed-top {
     height: 150px;
     font-size: 60px;
