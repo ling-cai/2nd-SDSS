@@ -3,18 +3,14 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
-header {
+/*header {
   padding: 156px 0 100px;
 }
-
+*/
 section {
   padding: 20px 0;
 }
 
-.covid-19-announcement{
-	color: red;
-	font-weight: bold;
-}
 
 table {
   font-family: arial, sans-serif;
