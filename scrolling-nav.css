@@ -16,10 +16,11 @@ section {
     background-color: blue;
 }
 
-.fixed-top {
+/*.fixed-top {
     height: 150px;
     font-size: 60px;
-}
+}*/
+
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
